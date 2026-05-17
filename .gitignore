@@ -1,3 +1,7 @@
 /dist
 /node_modules
 .env
+
+# macOS system files (ignored in all directories)
+.DS_Store
+**/.DS_Store
